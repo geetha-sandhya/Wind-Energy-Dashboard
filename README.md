@@ -41,8 +41,7 @@ Developed a Wind Energy Feasibility Dashboard to:
 ![Map Vizualisation](screenshots/Map_Visualization.png)
 
 ## 📎 Project Resources
-- 📊 Dashboard & Files:
-- Note:Google drive links
+- 📊 Dashboard & Files:(🔐 Note:Google drive links)
 - Final Project Report(Word Document) :https://drive.google.com/file/d/1dgMo34u161bjbflkFWWJgpmyqWeN1ov9/view?usp=drive_link
 - Final PPT (PDF) :https://drive.google.com/file/d/1wPT3m15KTmeDEKMB671zrdZlGMtmr8yE/view?usp=drive_link
 - Project Explanation Video :https://drive.google.com/file/d/1UJ3M4wr94uIcp8W8FvDZKzFvAHvc8-OP/view?usp=drive_link
