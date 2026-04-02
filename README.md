@@ -35,13 +35,13 @@ Developed a Wind Energy Feasibility Dashboard to:
 
 ## 📎 Project Resources
 - 📊 Dashboard & Files:
-  Note:Google drive links
-  1.Final Project Report(Word Document) :https://drive.google.com/file/d/1dgMo34u161bjbflkFW
-  2.Tableau Dashboard (screenshot) :https://drive.google.com/file/d/1wl8bSypHeNFDwoWrA
-  3.Final PPT (PDF) :https://drive.google.com/file/d/1wPT3m15KTmeDEKM
-  4.Project Photos :https://drive.google.com/drive/folders/1HfI7Hd5xFSxQ
-  5.Project Explanation Video :https://drive.google.com/file/d/1UJ3M4wr94uIcp8W8Fv
-  6.Supporting Documents:https://docs.google.com/spreadsheets/d/1ihHkPZvaiqH
+- Note:Google drive links
+- Final Project Report(Word Document) :https://drive.google.com/file/d/1dgMo34u161bjbflkFWWJgpmyqWeN1ov9/view?usp=drive_link
+- Tableau Dashboard (screenshot) :https://drive.google.com/file/d/1wl8bSypHeNFDwoWrACsnlnXaDy_39s3s/view?usp=drive_link
+- Final PPT (PDF) :https://drive.google.com/file/d/1wPT3m15KTmeDEKMB671zrdZlGMtmr8yE/view?usp=drive_link
+- Project Photos :https://drive.google.com/drive/folders/1HfI7Hd5xFSxQGUn4za_2UjVCL59zzHDP?usp=drive_link
+- Project Explanation Video :https://drive.google.com/file/d/1UJ3M4wr94uIcp8W8FvDZKzFvAHvc8-OP/view?usp=drive_link
+- Supporting Documents:https://docs.google.com/spreadsheets/d/1ihHkPZvaiqHWfhI0er_lB_MBt1NRrN4x/edit?usp=drive_link&ouid=101401215391953839521&rtpof=true&sd=true
 
 
 ## 🤝 Team
