@@ -34,7 +34,15 @@ Developed a Wind Energy Feasibility Dashboard to:
 - Contributed to data-driven environmental decision-making  
 
 ## 📎 Project Resources
-- 📊 Dashboard & Files: (Add your Google Drive link here)
+- 📊 Dashboard & Files:
+  Note:Google drive links
+  1.Final Project Report(Word Document) :https://drive.google.com/file/d/1dgMo34u161bjbflkFW
+  2.Tableau Dashboard (screenshot) :https://drive.google.com/file/d/1wl8bSypHeNFDwoWrA
+  3.Final PPT (PDF) :https://drive.google.com/file/d/1wPT3m15KTmeDEKM
+  4.Project Photos :https://drive.google.com/drive/folders/1HfI7Hd5xFSxQ
+  5.Project Explanation Video :https://drive.google.com/file/d/1UJ3M4wr94uIcp8W8Fv
+  6.Supporting Documents:https://docs.google.com/spreadsheets/d/1ihHkPZvaiqH
+
 
 ## 🤝 Team
 - Vasamsetti Geetha Sandhya  
