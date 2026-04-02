@@ -31,7 +31,11 @@ Developed a Wind Energy Feasibility Dashboard to:
 ## 📈 Impact
 - Supported evaluation of wind energy potential across multiple locations  
 - Enabled better planning for clean energy adoption  
-- Contributed to data-driven environmental decision-making  
+- Contributed to data-driven environmental decision-making
+## 📸 Dashboard Screenshots
+
+![Dashboard](screenshots/image1.png)
+![Dashboard](screenshots/image2.png) 
 
 ## 📎 Project Resources
 - 📊 Dashboard & Files:
